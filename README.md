@@ -1,13 +1,11 @@
 <h6 align="center">
- 
-<img height="200em" src="https://user-images.githubusercontent.com/102235594/162045748-717d4bb1-29ed-492d-a1a0-8b35d8c847f3.svg"> 
- 
-<hr>
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/t.h.o.n.n/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/anderthonn-batista)
  
 </h4>
+
+<hr>
 
 <h3 align="center">  <br>
   
