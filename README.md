@@ -20,11 +20,12 @@ Olá, eu sou o Anderthonn! 🇧🇷
 <div style="display: block">
   <img align="center" alt="ALB-HTML5" height="40" width="50" src="https://api.iconify.design/logos/html-5.svg?color=currentColor">
   <img align="center" alt="ALB-CSS3" height="40" width="50" src="https://api.iconify.design/logos/css-3.svg?color=currentColor">
-  <img align="center" alt="ALB-JS" height="40" width="50" src="https://api.iconify.design/logos:javascript.svg?color=currentColor">
+  <img align="center" alt="ALB-ANGULAR" height="40" width="50" src="https://api.iconify.design/logos/angular-icon.svg?color=currentColor">
+  <img align="center" alt="ALB-DOTNET" height="40" width="50" src="https://api.iconify.design/logos/dotnet.svg?color=currentColor">
   <img align="center" alt="ALB-C#" height="40" width="50" src="https://api.iconify.design/vscode-icons:file-type-csharp2.svg?color=currentColor">
-  <img align="center" alt="ALB-JAVA" height="40" width="50" src="https://api.iconify.design/logos:java.svg?color=currentColor">
   <img align="center" alt="ALB-SQLSERVER" height="40" width="50" src="https://api.iconify.design/simple-icons:microsoftsqlserver.svg?color=currentColor">
   <img align="center" alt="ALB-POSTGRESQL" height="40" width="50" src="https://api.iconify.design/logos:postgresql.svg?color=currentColor">
+  <img align="center" alt="ALB-AZURE" height="40" width="50" src="https://api.iconify.design/logos:microsoft-azure.svg?color=currentColor">
 </div>
 </h3>
 
